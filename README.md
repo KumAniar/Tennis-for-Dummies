@@ -5,11 +5,10 @@ There are a few key components that you need to know about. This guide will teac
 
 +	How to hit the ball
 +	How to keep track of how much you’ve hit the ball
-+	How to talk about professionals hitting the ball 
 
 ## How to Hit the Ball
 
-If you've truly never hit a tennis ball before you are planning to play, I'd suggest canceling you tennis date, but if that's not possible then I have you covered. There are 3 basic shots that you need to know: forehand, backhand, and serve.  
+If you've truly never hit a tennis ball before you are planning to play, I'd suggest canceling your tennis date, but if that's not possible then I have you covered. There are 3 basic shots that you need to know: forehand, backhand, and serve.  
 
 The forehand is hit with your dominant hand. Look at the bottom of you racket and notice the octagonal shape. Starting from the long side that is parallel with the racket face, label it one and go around clockwise until all sides are labeled. Place the pad of your index finger on the side labeled 4 and experiment with your swings until you hit a shot that goes over the net. Playing tennis is difficult so that last part may take a while.  
 
@@ -25,4 +24,4 @@ To begin a point, you must serve into the service box, a box on the first half o
 
 The smallest point one can play is called just that, a point. It is when one person serves and you rally the ball until it dies. Who ever hit it into the net or hit it out into the green loses the point. The scoring goes 15 - 30 - 40 and you alternate playing on the right side of the court (duece) and the left (ad), always starting with duece. 
 
-In tennis if it is 40-40, we call that duece (because it is always on the duece side...duh). The next point is Ad in (you have the advantage) or Ad out (the other person has the advantage). Then, whoever's advantage it is must win the next point or it goes back to duece. Once someone finally wins that last point, they win the game. Everytime there is an odd number of total games played, you switch to the other side of the net. A set is finished once someone gets to 6 games and wins by two. If it ever gets to 5 - 5, then the players must go to 7 games and win by 2. If it gets to 6 - 6, then that's a little more complicated (so don't worry about just yet). 
+In tennis if it is 40-40, we call that duece (because it is always on the duece side...duh). The next point is Ad in (you have the advantage) or Ad out (the other person has the advantage). Then, whoever's advantage it is must win the next point or it goes back to duece. Once someone finally wins that last point, they win the game. Everytime there is an odd number of total games played, you switch to the other side of the net. A set is finished once someone gets to 6 games and wins by two. If it ever gets to 5 - 5, then the players must go to 7 games and win by 2. If it gets to 6 - 6, then that's a little more complicated (so don't worry about just yet).
