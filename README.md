@@ -19,6 +19,10 @@ The last shot is the most elusive of all. The serve. It requires many different 
 
 ## How to keep Track of how much You've Hit the Ball
 
-Now if you've been invited to play tennis with someone, they're probably gonna want to play a set. Now it's important to unerstand how score keeping works to make sure the set is fair.  
+Now if you've been invited to play tennis with someone, they're probably gonna want to play a set. Now it's important to understand the rules are so you don't look like a novice.  
 
-The smallest point one can play is called just that, a point. It is when one person serves and you rally the ball until it dies. Who ever hit it into the net or hit it out into the green
+To begin a point, you must serve into the service box, a box on the first half of the court (closest to the net). From then on, you can only hit into the blue court. If you are playing singles, you cannot hit into the doubles line. 
+
+The smallest point one can play is called just that, a point. It is when one person serves and you rally the ball until it dies. Who ever hit it into the net or hit it out into the green loses the point. The scoring goes 15 - 30 - 40 and you alternate playing on the right side of the court (duece) and the left (ad), always starting with duece. 
+
+In tennis if it is 40-40, we call that duece (because it is always on the duece side...duh). The next point is Ad in (you have the advantage) or Ad out (the other person has the advantage). Then, whoever's advantage it is must win the next point or it goes back to duece. Once someone finally wins that last point, they win the game. Everytime there is an odd number of total games played, you switch to the other side of the net. A set is finished once someone gets to 6 games and wins by two. If it ever gets to 5 - 5, then the players must go to 7 games and win by 2. If it gets to 6 - 6, then that's a little more complicated (so don't worry about just yet). 
