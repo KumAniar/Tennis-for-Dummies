@@ -25,3 +25,9 @@ To begin a point, you must serve into the service box, a box on the first half o
 The smallest point one can play is called just that, a point. It is when one person serves and you rally the ball until it dies. Who ever hit it into the net or hit it out into the green loses the point. The scoring goes 15 - 30 - 40 and you alternate playing on the right side of the court (duece) and the left (ad), always starting with duece. 
 
 In tennis if it is 40-40, we call that duece (because it is always on the duece side...duh). The next point is Ad in (you have the advantage) or Ad out (the other person has the advantage). Then, whoever's advantage it is must win the next point or it goes back to duece. Once someone finally wins that last point, they win the game. Everytime there is an odd number of total games played, you switch to the other side of the net. A set is finished once someone gets to 6 games and wins by two. If it ever gets to 5 - 5, then the players must go to 7 games and win by 2. If it gets to 6 - 6, then that's a little more complicated (so don't worry about just yet).
+
+Now this is all for singles, if you are looking for rules on how to play doubles, then it might be best to check out this site. 
+
+##Good Luck
+
+Now that's it for this guide. I hope that it serves you well and you don't make a fool out of yourself (but tennis is hard so you probably will). Tennis is truly a game that requires practice, so if you really want to get better, all you need to do is hit the ball about a thousands times until you finally hit it well. But I'm assuming that's not you, so this guide might be the only thing you need. Either way, good luck!
