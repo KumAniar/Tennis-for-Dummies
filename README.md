@@ -16,11 +16,13 @@ The backhand is hit with two hands, but driven with your non dominant. Place the
 
 The last shot is the most elusive of all. The serve. It requires many different components to come together and synergize and many seasonsed highschoolers still struggle with it. The first thing you need to practice is your toss. Practice throwing the tennis ball up high, about a foot in front of you. Once you have that consistent, work on your grip. Place the pad of you dominant index finger on side 2 and bring the racket behind your head. Put it all together and toss, then swing the racket over you head, hitting the ball over the net and into the opposite side of the court. 
 
-![Comp Sci Website pic 1](https://user-images.githubusercontent.com/114503135/193432215-4029958d-f371-4254-83ed-e75f12a96604.jpg "Labels for the Octagon")
+<img src="https://user-images.githubusercontent.com/114503135/193432215-4029958d-f371-4254-83ed-e75f12a96604.jpg" alt="Labels for the Octagon on the Bottom of the Tennis Racket" style="Width:400px;Height:400px;"> 
 
 ## How to keep Track of how much You've Hit the Ball
 
 Now if you've been invited to play tennis with someone, they're probably gonna want to play a set. Now it's important to understand the rules are so you don't look like a novice.  
+
+![Comp Sci Website pic 1](https://user-images.githubusercontent.com/114503135/193432215-4029958d-f371-4254-83ed-e75f12a96604.jpg "Labels for the Octagon")
 
 To begin a point, you must serve into the service box, a box on the first half of the court (closest to the net). From then on, you can only hit into the blue court. If you are playing singles, you cannot hit into the doubles line. 
 
