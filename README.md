@@ -40,7 +40,7 @@ The Black line = The net
 
 In tennis if it is 40-40, we call that duece (because it is always on the duece side...duh). The next point is Ad in (you have the advantage) or Ad out (the other person has the advantage. Then, whoever's advantage it is must win the next point or it goes back to duece. Once someone finally wins that last point, they win the game. Everytime there is an odd number of total games played, you switch to the other side of the net. A set is finished once someone gets to 6 games and wins by two. If it ever gets to 5 - 5, then the players must go to 7 games and win by 2. If it gets to 6 - 6, then that's a little more complicated (so don't worry about just yet).
 
-Now this is all for singles, if you are looking for rules on how to play doubles, then it might be best to check out this site. 
+Now this is all for singles, if you are looking for rules on how to play doubles, then it might be best to check out this [](https://www.usta.com/en/home/improve/tips-and-instruction/national/doubles-tennis-rules-tips.html#:~:text=In%20doubles%2C%20you%20and%20a,by%20serving%20the%20first%20ball. "site"). 
 
 ## Good Luck
 
