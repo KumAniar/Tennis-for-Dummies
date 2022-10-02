@@ -1,4 +1,4 @@
-# Tennis for Dummies
+# A Guide to Tennis
 So you’ve been asked by your rich friends if you want to go play tennis on the weekends. Obviously you say yes, because they’re **rich**, but the problem is you don’t know how to. Well don’t worry about that because this guide is all you need to know *(for now)*. 
 
 There are a few key components that you need to know about. This guide will teach you 
@@ -14,7 +14,7 @@ The forehand is hit with your dominant hand. Look at the bottom of you racket an
 
 The backhand is hit with two hands, but driven with your non dominant. Place the pad of your non-dominant back hand on side 6 and the pad of your dominant index finger on side 2. This swing might be a little wore than your forehand, but don't be alarmed and just keep trying.  
 
-The last shot is the most elusive of all. The serve. It requires many different components to come together and synergize and many seasonsed highschoolers still struggle with it. The first thing you need to practice is your toss. Practice throwing the tennis ball up high, about a foot in front of you. Once you have that consistent, work on your grip. Place the pad of you dominant index finger on side 2 and bring the racket behind your head. Put it all together and toss, then swing the racket over you head, hitting the ball over the net and into the opposite side of the court. 
+The last shot is the most elusive of all. The serve. It requires many different components to come together and work in tandem. The first thing you need to practice is your toss. Practice throwing the tennis ball up high, about a foot in front of you. Once you have that consistent, work on your grip. Place the pad of you dominant index finger on side 2 and bring the racket behind your head. Put it all together and toss, then swing the racket over your head, hitting the ball over the net and into the opposite side of the court. 
 
 <img src="https://user-images.githubusercontent.com/114503135/193432215-4029958d-f371-4254-83ed-e75f12a96604.jpg" alt="Labels for the Octagon on the Bottom of the Tennis Racket" style="Width:400px;Height:400px;"> 
 
