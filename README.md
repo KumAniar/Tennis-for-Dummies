@@ -31,8 +31,11 @@ The smallest point one can play is called just that, a point. It is when one per
 <img src="https://user-images.githubusercontent.com/114503135/193432896-ce69a57b-68e9-4913-b20a-91088ba2aab0.jpg" alt="Tennis Court" style="Width:300px;Height:600px;">
 
 The Blue D = Duece, The Red A = Ad
+
 The Purple Arrows = The Doubles Alley
+
 The Green Boxes = The service box
+
 The Black line = The net
 
 In tennis if it is 40-40, we call that duece (because it is always on the duece side...duh). The next point is Ad in (you have the advantage) or Ad out (the other person has the advantage. Then, whoever's advantage it is must win the next point or it goes back to duece. Once someone finally wins that last point, they win the game. Everytime there is an odd number of total games played, you switch to the other side of the net. A set is finished once someone gets to 6 games and wins by two. If it ever gets to 5 - 5, then the players must go to 7 games and win by 2. If it gets to 6 - 6, then that's a little more complicated (so don't worry about just yet).
