@@ -18,7 +18,7 @@ The last shot is the most elusive of all. The serve. It requires many different 
 
 <img src="https://user-images.githubusercontent.com/114503135/193432215-4029958d-f371-4254-83ed-e75f12a96604.jpg" alt="Labels for the Octagon on the Bottom of the Tennis Racket" style="Width:500px;Height:500px;"> 
 
-## How to keep Track of how much You've Hit the Ball
+## How to Keep Track of how much You've Hit the Ball
 
 Now if you've been invited to play tennis with someone, they're probably gonna want to play a set. Now it's important to understand the rules are so you don't look like a novice.  
 
