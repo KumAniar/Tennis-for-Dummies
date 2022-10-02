@@ -16,7 +16,7 @@ The backhand is hit with two hands, but driven with your non dominant. Place the
 
 The last shot is the most elusive of all. The serve. It requires many different components to come together and synergize and many seasonsed highschoolers still struggle with it. The first thing you need to practice is your toss. Practice throwing the tennis ball up high, about a foot in front of you. Once you have that consistent, work on your grip. Place the pad of you dominant index finger on side 2 and bring the racket behind your head. Put it all together and toss, then swing the racket over you head, hitting the ball over the net and into the opposite side of the court. 
 
-<img src="https://user-images.githubusercontent.com/114503135/193432215-4029958d-f371-4254-83ed-e75f12a96604.jpg" alt="Labels for the Octagon on the Bottom of the Tennis Racket" style="Width:500px;Height:500px;"> 
+<img src="https://user-images.githubusercontent.com/114503135/193432215-4029958d-f371-4254-83ed-e75f12a96604.jpg" alt="Labels for the Octagon on the Bottom of the Tennis Racket" style="Width:400px;Height:400px;"> 
 
 ## How to Keep Track of how much You've Hit the Ball
 
