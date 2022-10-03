@@ -12,7 +12,7 @@ If you've truly never hit a tennis ball before you are planning to play, I'd sug
 
 The forehand is hit with your dominant hand. Look at the bottom of your racket and notice the octagonal shape. Starting from the short side that is perpendicular to the racket face, label it one and go around clockwise until all sides are labeled. Place the pad of your index finger on the side labeled 4 and experiment with your swings until you hit a shot that goes over the net. Playing tennis is difficult so that last part may take a while.  
 
-The backhand is hit with two hands, but driven with your non dominant hand. Place the pad of your non-dominant idex finger on side 6 and the pad of your dominant index finger on side 2. This swing might be a little wore than your forehand, but don't be alarmed and just keep trying.  
+The backhand is hit with two hands, but driven with your non dominant hand. Place the pad of your non-dominant index finger on side 6 and the pad of your dominant index finger on side 2. This swing might be a little wore than your forehand, but don't be alarmed and just keep trying.  
 
 The last shot is the most elusive of all. The serve. It requires many different components to come together and work in tandem. The first thing you need to practice is your toss. Practice throwing the tennis ball up high, about a foot in front of you. Once you have that consistent, work on your grip. Place the pad of your dominant index finger on side 2 and bring the racket behind your head. Put it all together and toss, then swing the racket over your head, hitting the ball over the net and into the opposite side of the court. 
 
