@@ -10,17 +10,17 @@ There are a few key components that you need to know about. This guide will teac
 
 If you've truly never hit a tennis ball before you are planning to play, I'd suggest canceling your tennis date, but if that's not possible then I have you covered. There are 3 basic shots that you need to know: forehand, backhand, and serve.  
 
-The forehand is hit with your dominant hand. Look at the bottom of you racket and notice the octagonal shape. Starting from the short side that is perpendicular to the racket face, label it one and go around clockwise until all sides are labeled. Place the pad of your index finger on the side labeled 4 and experiment with your swings until you hit a shot that goes over the net. Playing tennis is difficult so that last part may take a while.  
+The forehand is hit with your dominant hand. Look at the bottom of your racket and notice the octagonal shape. Starting from the short side that is perpendicular to the racket face, label it one and go around clockwise until all sides are labeled. Place the pad of your index finger on the side labeled 4 and experiment with your swings until you hit a shot that goes over the net. Playing tennis is difficult so that last part may take a while.  
 
-The backhand is hit with two hands, but driven with your non dominant. Place the pad of your non-dominant back hand on side 6 and the pad of your dominant index finger on side 2. This swing might be a little wore than your forehand, but don't be alarmed and just keep trying.  
+The backhand is hit with two hands, but driven with your non dominant hand. Place the pad of your non-dominant idex finger on side 6 and the pad of your dominant index finger on side 2. This swing might be a little wore than your forehand, but don't be alarmed and just keep trying.  
 
-The last shot is the most elusive of all. The serve. It requires many different components to come together and work in tandem. The first thing you need to practice is your toss. Practice throwing the tennis ball up high, about a foot in front of you. Once you have that consistent, work on your grip. Place the pad of you dominant index finger on side 2 and bring the racket behind your head. Put it all together and toss, then swing the racket over your head, hitting the ball over the net and into the opposite side of the court. 
+The last shot is the most elusive of all. The serve. It requires many different components to come together and work in tandem. The first thing you need to practice is your toss. Practice throwing the tennis ball up high, about a foot in front of you. Once you have that consistent, work on your grip. Place the pad of your dominant index finger on side 2 and bring the racket behind your head. Put it all together and toss, then swing the racket over your head, hitting the ball over the net and into the opposite side of the court. 
 
 <img src="https://user-images.githubusercontent.com/114503135/193432215-4029958d-f371-4254-83ed-e75f12a96604.jpg" alt="Labels for the Octagon on the Bottom of the Tennis Racket" style="Width:400px;Height:400px;"> 
 
 ## How to Keep Track of how much You've Hit the Ball
 
-Now if you've been invited to play tennis with someone, they're probably gonna want to play a set. Now it's important to understand the rules are so you don't look like a novice.  
+Now if you've been invited to play tennis with someone, they're probably gonna want to play a set. Now it's important to understand the rules so you don't look like a novice.  
 
 To begin a point, you must serve into the service box, a box on the first half of the court (closest to the net). You must serve into the service box corresponding to the side you are serving from (ex: Duece side to Duece side). From then on, you can only hit into the blue court. If you are playing singles, you cannot hit into the doubles line. 
 
